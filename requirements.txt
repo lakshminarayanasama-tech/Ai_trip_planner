@@ -1,0 +1,2 @@
+crewai[litellm]==1.13.0
+python-dotenv
